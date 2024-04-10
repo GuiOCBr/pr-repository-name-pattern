@@ -3,14 +3,14 @@
 
 Repository names follow a naming pattern in the `context-name-optional-description` format.
 
-Currently, the following context acronyms are used in repositories:
+#### Currently, the following context acronyms are used in repositories: ###
 
 * __ES:__ Study - study repository containing code snippets and comments on a given topic.
 * __CO:__ Knowledge - Exclusive repository for articles and notes, which may be related to an ES repository.
 * __DE:__ Development - Code repository, personal projects.
 * __PR:__ Standard - Repository containing information on adopted nomenclatures and standards.
   
- The practice of commonly used semantic commits is adopted:
+ #### The practice of commonly used semantic commits is adopted: ####
 
 * __feat:__ Indicates the inclusion of a new resource (relates to the MINOR of semantic versioning).
 * __fix:__ Indicates the correction of a problem (bug fix) (related to the semantic versioning PATCH).
