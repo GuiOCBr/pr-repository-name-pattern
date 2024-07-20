@@ -1,14 +1,13 @@
 
 ### This repository contains the standards adopted in the creation of repositories. ###
 
-Repository names follow a naming pattern in the `context-name` format.
+Repository names follow a naming pattern in the <organization>-<projectName>-<context> format.
 
 #### Currently, the following context acronyms are used in repositories: ###
 
 * __ES:__ Study - study repository containing code snippets and comments on a given topic.
-* __CO:__ Knowledge - Exclusive repository for articles and notes, which may be related to an ES repository.
 * __DE:__ Development - Code repository, personal projects.
-* __PR:__ Standard - Repository containing information on adopted nomenclatures and standards.
+* __STD:__ Standard - Repository containing information on adopted nomenclatures and standards.
   
  #### The practice of commonly used semantic commits is adopted: ####
 
