@@ -1,7 +1,7 @@
 
 ### This repository contains the standards adopted in the creation of repositories. ###
 
-Repository names follow a naming pattern in the <organization>-<projectName>-<context> format.
+Repository names follow a naming pattern in the `acronyms-projectName-context` format.
 
 #### Currently, the following context acronyms are used in repositories: ###
 
